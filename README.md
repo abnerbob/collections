@@ -14,7 +14,6 @@ sorts of my collections
 - [**shadowsocks的v2ray-plugin**](https://github.com/shadowsocks/v2ray-plugin) : ssd的v2ray-plugin
 
 #### **v2ray系列**
-
 - [**v2ray主页**](https://www.v2fly.org/)
 - [**V2Fly组织**](https://github.com/v2fly) : v2ray协议组织
 
@@ -29,9 +28,11 @@ sorts of my collections
 ### 科学上网前端
 #### **windows好用的工具** 
 - [**clash for windows**](https://github.com/Fndroid/clash_for_windows_pkg)
-  主页:[https://docs.cfw.lbyczf.com/](https://docs.cfw.lbyczf.com/)
+
+主页:[https://docs.cfw.lbyczf.com/](https://docs.cfw.lbyczf.com/)
 - [**v2rayN**](https://github.com/Fndroid/clash_for_windows_pkg)
-  教程:[https://baiyunju.cc/tag/v2ray](https://baiyunju.cc/tag/v2ray)白云居
+
+教程:[https://baiyunju.cc/tag/v2ray](https://baiyunju.cc/tag/v2ray)白云居
 - [**shadowsocks-windows**](https://github.com/shadowsocks/shadowsocks-windows) : ss的官方windows前端
   
 - [**Netch**](https://github.com/NetchX/Netch)
