@@ -3,6 +3,7 @@ sorts of my collections
 
 ### linux相关
 - [**systemd**](https://github.com/systemd/systemd) ：系统子自带service管理工具
+- [开源ssh工具electerm](https://github.com/electerm/electerm/releases)
 
 ---
 
