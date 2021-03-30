@@ -66,6 +66,8 @@ host集合
 #### 规则相关
 ACL4SSR,在线订阅转换,Clash在线订阅转换,在线订阅转换 : [https://sub-beta.now.sh/](https://sub-beta.now.sh/)
 
+gfwlist : [https://github.com/gfwlist/gfwlist](https://github.com/gfwlist/gfwlist)
+
 **Surge/Clash/QuantumultX规则**
 * 神机规则: https://github.com/DivineEngine/Profiles/tree/master
 * lhie1洞主的规则: https://github.com/lhie1/Rules/tree/master
@@ -85,8 +87,10 @@ ACL4SSR,在线订阅转换,Clash在线订阅转换,在线订阅转换 : [https:/
 
 [网易云变灰解锁](https://github.com/nondanee/UnblockNeteaseMusic) ：参考教程
 
+
+
 ---
 
 ### 知识点
-[**shadowsocks前世今生**](https://github.com/KeiKinn/ShadowsocksBio)
-[VPS连通问题定位](https://www.cnblogs.com/diffx/p/13817890.html)
+- [**shadowsocks前世今生**](https://github.com/KeiKinn/ShadowsocksBio)
+- [VPS连通问题定位](https://www.cnblogs.com/diffx/p/13817890.html)
