@@ -28,7 +28,7 @@ sorts of my collections
 ### 科学上网前端
 #### **windows好用的工具** 
 - [**clash for windows**](https://github.com/Fndroid/clash_for_windows_pkg)
-- [**v2rayN**](https://github.com/Fndroid/clash_for_windows_pkg)
+- [**v2rayN**](https://github.com/2dust/v2rayN)
 - [**shadowsocks-windows**](https://github.com/shadowsocks/shadowsocks-windows) : ss的官方windows前端
 - [**Netch**](https://github.com/NetchX/Netch)
 
