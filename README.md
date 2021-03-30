@@ -68,9 +68,9 @@ ACL4SSR,在线订阅转换,Clash在线订阅转换,在线订阅转换 : [https:/
 * GeQ1an的规则: https://github.com/GeQ1an/Rules/tree/master
 * blackmatrix7的规则: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule
 * NobyDa的规则: https://github.com/NobyDa/ND-AD
-* 
+
 **Shadowrocket 小火箭 规则:**
-lhie1 规则:  https://github.com/lhie1/Rules/raw/master/Shadowrocket/Complete.conf
+lhie1 规则: https://github.com/lhie1/Rules/raw/master/Shadowrocket/Complete.conf
 SS Rule Snippet 规则: https://github.com/Hackl0us/SS-Rule-Snippet/raw/master/LAZY_RULES/Shadowrocket.conf
 h2y 规则: https://github.com/h2y/Shadowrocket-ADBlock-Rules/raw/master/sr_top500_banlist_ad.conf
 eHpo1 规则: https://github.com/eHpo1/Rules/raw/master/Shadowrocket/Main.conf
@@ -78,7 +78,6 @@ eHpo1 规则: https://github.com/eHpo1/Rules/raw/master/Shadowrocket/Main.conf
 a00789123 规则(包含RULE-SET): https://github.com/a00789123/rules-bak/raw/main/Shadow-Rule-set.conf
  
 [w37fhy的配置](https://github.com/w37fhy/QuantumultX) : 可以作为参考
-
 [网易云变灰解锁](https://github.com/nondanee/UnblockNeteaseMusic) ：参考教程
 
 ---
