@@ -42,7 +42,8 @@ sorts of my collections
 - v2ray : [https://toutyrater.github.io/](https://toutyrater.github.io/)
 
 - clash for windows:[https://docs.cfw.lbyczf.com/](https://docs.cfw.lbyczf.com/)
-- v2rayN:[https://baiyunju.cc/tag/v2ray](https://baiyunju.cc/tag/v2ray)白云居
+- v2rayN : [https://baiyunju.cc/tag/v2ray](https://baiyunju.cc/tag/v2ray)白云居
+- v2rayN路由规则加强版 : [https://github.com/Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
 
 - 小火箭 : [http://laob.me/2300](http://laob.me/2300)
 - Loon : [https://www.notion.so/Loon-f0a98c39f5224c09b281c79837380431](https://www.notion.so/Loon-f0a98c39f5224c09b281c79837380431)
