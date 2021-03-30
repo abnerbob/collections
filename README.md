@@ -39,13 +39,15 @@ sorts of my collections
 - Surge 4(太贵了, 用不起)
 
 #### 教程
-clash for windows:[https://docs.cfw.lbyczf.com/](https://docs.cfw.lbyczf.com/)
-v2rayN:[https://baiyunju.cc/tag/v2ray](https://baiyunju.cc/tag/v2ray)白云居
+- v2ray : [https://toutyrater.github.io/](https://toutyrater.github.io/)
 
-小火箭 : [http://laob.me/2300](http://laob.me/2300)
-Loon : [https://www.notion.so/Loon-f0a98c39f5224c09b281c79837380431](https://www.notion.so/Loon-f0a98c39f5224c09b281c79837380431)
-Quantumult X : (https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917)[https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917]
-小火箭&&CFW&&等等 ：[https://merlinblog.xyz/about.html](https://merlinblog.xyz/about.html)
+- clash for windows:[https://docs.cfw.lbyczf.com/](https://docs.cfw.lbyczf.com/)
+- v2rayN:[https://baiyunju.cc/tag/v2ray](https://baiyunju.cc/tag/v2ray)白云居
+
+- 小火箭 : [http://laob.me/2300](http://laob.me/2300)
+- Loon : [https://www.notion.so/Loon-f0a98c39f5224c09b281c79837380431](https://www.notion.so/Loon-f0a98c39f5224c09b281c79837380431)
+- Quantumult X : (https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917)[https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917]
+- 小火箭&&CFW&&等等 ：[https://merlinblog.xyz/about.html](https://merlinblog.xyz/about.html)
 
 
 #### 脚本相关
