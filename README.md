@@ -43,8 +43,8 @@ clash for windows:[https://docs.cfw.lbyczf.com/](https://docs.cfw.lbyczf.com/)
 v2rayN:[https://baiyunju.cc/tag/v2ray](https://baiyunju.cc/tag/v2ray)白云居
 
 小火箭 : [http://laob.me/2300](http://laob.me/2300)
-Loon : []()
-Quantumult X : ()[]
+Loon : [https://www.notion.so/Loon-f0a98c39f5224c09b281c79837380431](https://www.notion.so/Loon-f0a98c39f5224c09b281c79837380431)
+Quantumult X : (https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917)[https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917]
 小火箭&&CFW&&等等 ：[https://merlinblog.xyz/about.html](https://merlinblog.xyz/about.html)
 
 
@@ -78,6 +78,7 @@ ACL4SSR,在线订阅转换,Clash在线订阅转换,在线订阅转换 : [https:/
 * a00789123 规则(包含RULE-SET): https://github.com/a00789123/rules-bak/raw/main/Shadow-Rule-set.conf
  
 [w37fhy的配置](https://github.com/w37fhy/QuantumultX) : 可以作为参考
+
 [网易云变灰解锁](https://github.com/nondanee/UnblockNeteaseMusic) ：参考教程
 
 ---
