@@ -88,5 +88,5 @@ ACL4SSR,在线订阅转换,Clash在线订阅转换,在线订阅转换 : [https:/
 ---
 
 ### 知识点
--[**shadowsocks前世今生**](https://github.com/KeiKinn/ShadowsocksBio)
-[]()
+[**shadowsocks前世今生**](https://github.com/KeiKinn/ShadowsocksBio)
+[VPS连通问题定位](https://www.cnblogs.com/diffx/p/13817890.html)
