@@ -28,13 +28,8 @@ sorts of my collections
 ### 科学上网前端
 #### **windows好用的工具** 
 - [**clash for windows**](https://github.com/Fndroid/clash_for_windows_pkg)
-
-主页:[https://docs.cfw.lbyczf.com/](https://docs.cfw.lbyczf.com/)
 - [**v2rayN**](https://github.com/Fndroid/clash_for_windows_pkg)
-
-教程:[https://baiyunju.cc/tag/v2ray](https://baiyunju.cc/tag/v2ray)白云居
 - [**shadowsocks-windows**](https://github.com/shadowsocks/shadowsocks-windows) : ss的官方windows前端
-  
 - [**Netch**](https://github.com/NetchX/Netch)
 
 #### **ios端好用的工具**
@@ -43,23 +38,48 @@ sorts of my collections
 - Quantumult X
 - Surge 4(太贵了, 用不起)
 
+#### 教程
+clash for windows:[https://docs.cfw.lbyczf.com/](https://docs.cfw.lbyczf.com/)
+v2rayN:[https://baiyunju.cc/tag/v2ray](https://baiyunju.cc/tag/v2ray)白云居
+
+小火箭 : [http://laob.me/2300](http://laob.me/2300)
+Loon : []()
+Quantumult X : ()[]
+小火箭&&CFW&&等等 ：[https://merlinblog.xyz/about.html](https://merlinblog.xyz/about.html)
+
+
 #### 脚本相关
 ios端的几款软件都支持使用js脚本
-- BoxJs 脚本盒子
-[**BoxJS主页**](https://chavyleung.gitbook.io/boxjs/)
-- 其他脚本
+BoxJs 脚本盒子
+- [**BoxJS主页**](https://chavyleung.gitbook.io/boxjs/)
 
-- host集合
+其他脚本
+
+host集合
 
 ---
 
 #### 规则相关
+ACL4SSR,在线订阅转换,Clash在线订阅转换,在线订阅转换 : [https://sub-beta.now.sh/](https://sub-beta.now.sh/)
 
+**Surge/Clash/QuantumultX规则**
+* 神机规则: https://github.com/DivineEngine/Profiles/tree/master
+* lhie1洞主的规则: https://github.com/lhie1/Rules/tree/master
+* GeQ1an的规则: https://github.com/GeQ1an/Rules/tree/master
+* blackmatrix7的规则: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule
+* NobyDa的规则: https://github.com/NobyDa/ND-AD
+* 
+**Shadowrocket 小火箭 规则:**
+lhie1 规则:  https://github.com/lhie1/Rules/raw/master/Shadowrocket/Complete.conf
+SS Rule Snippet 规则: https://github.com/Hackl0us/SS-Rule-Snippet/raw/master/LAZY_RULES/Shadowrocket.conf
+h2y 规则: https://github.com/h2y/Shadowrocket-ADBlock-Rules/raw/master/sr_top500_banlist_ad.conf
+eHpo1 规则: https://github.com/eHpo1/Rules/raw/master/Shadowrocket/Main.conf
+壮壮规则: https://github.com/ydzydzydz/Rules/raw/master/Shadowrocket/Shadowrocket.conf
+a00789123 规则(包含RULE-SET): https://github.com/a00789123/rules-bak/raw/main/Shadow-Rule-set.conf
+ 
+[w37fhy的配置](https://github.com/w37fhy/QuantumultX) : 可以作为参考
 
-
-- [w37fhy的配置](https://github.com/w37fhy/QuantumultX) : 可以作为参考
-
-- [网易云变灰解锁](https://github.com/nondanee/UnblockNeteaseMusic) ：参考教程
+[网易云变灰解锁](https://github.com/nondanee/UnblockNeteaseMusic) ：参考教程
 
 ---
 
