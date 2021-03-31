@@ -14,6 +14,9 @@ node app.js -p 32777	//gitbash中执行，加个&后台执行也可以
 
 为什么程序一执行命令框消失，后台什么程序都没有
 
+若要在本地PC搭建服务器，```node app.js -s -e https://music.163.com -p 32777:32778```使用该命令
+参考：[https://github.com/nondanee/UnblockNeteaseMusic/issues/368](https://github.com/nondanee/UnblockNeteaseMusic/issues/368)
+
 eg： 可以加上验证的参数  -t username:password
 
 ### 服务器搭建 ：https://merlinblog.xyz/wiki/neteasemusic.html
