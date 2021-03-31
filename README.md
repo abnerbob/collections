@@ -46,6 +46,7 @@ sorts of my collections
 - v2rayN : [https://baiyunju.cc/tag/v2ray](https://baiyunju.cc/tag/v2ray)白云居
 - v2rayN路由规则加强版 : [https://github.com/Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
 
+- surge : [https://manual.nssurge.com/book/understanding-surge/cn/#%E8%BD%AC%E5%8F%91%E4%BB%A3%E7%90%86%E5%92%8C%E8%A7%84%E5%88%99%E7%B3%BB%E7%BB%9F](https://manual.nssurge.com/book/understanding-surge/cn/#%E8%BD%AC%E5%8F%91%E4%BB%A3%E7%90%86%E5%92%8C%E8%A7%84%E5%88%99%E7%B3%BB%E7%BB%9F)
 - 小火箭 : [http://laob.me/2300](http://laob.me/2300)
 - Loon : [https://www.notion.so/Loon-f0a98c39f5224c09b281c79837380431](https://www.notion.so/Loon-f0a98c39f5224c09b281c79837380431)
 - Quantumult X : (https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917)[https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917]
