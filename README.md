@@ -66,6 +66,8 @@ host集合
 #### 规则相关
 ACL4SSR,在线订阅转换,Clash在线订阅转换,在线订阅转换 : [https://sub-beta.now.sh/](https://sub-beta.now.sh/)
 
+ CN的GeoIP2库 : [https://github.com/Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN)
+
 gfwlist : [https://github.com/gfwlist/gfwlist](https://github.com/gfwlist/gfwlist)
 
 **Surge/Clash/QuantumultX规则**
