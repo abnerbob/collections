@@ -16,6 +16,7 @@ node app.js -p 32777	//gitbash中执行，加个&后台执行也可以
 
 
 ### 服务器搭建 ：https://merlinblog.xyz/wiki/neteasemusic.html
+服务器不建议搭建给本地用，服务器是最不推荐的方法了。
 ```
 #注册nodejs
 curl -sL https://deb.nodesource.com/setup_10.x | bash -
