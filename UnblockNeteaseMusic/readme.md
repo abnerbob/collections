@@ -6,10 +6,12 @@ cd D:\myproject\git_Repositories\UnblockNeteaseMusic
 node .\app.js -p 32777 	//powershell中执行
 node app.js -p 32777	//gitbash中执行，加个&后台执行也可以
 ```
-推出终端后本地的监听就结束，功能失效。感觉应该也可以用资源管理器运行
+退出终端后本地的监听就结束，功能失效。
+感觉应该也可以用资源管理器运行
 ``` "C:\Program Files\nodejs\node.exe" D:\myproject\git_Repositories\UnblockNeteaseMusic\app.js" -p 32777 ```
 ![image](https://user-images.githubusercontent.com/18462281/113167190-0f92b080-9276-11eb-8dc2-90a89d8eb785.png)
 ![image](https://user-images.githubusercontent.com/18462281/113167244-1caf9f80-9276-11eb-8f2a-1f93c806ec7d.png)
+
 为什么程序一执行命令框消失，后台什么程序都没有
 
 
