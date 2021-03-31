@@ -14,6 +14,7 @@ node app.js -p 32777	//gitbash中执行，加个&后台执行也可以
 
 为什么程序一执行命令框消失，后台什么程序都没有
 
+eg： 可以加上验证的参数  -t username:password
 
 ### 服务器搭建 ：https://merlinblog.xyz/wiki/neteasemusic.html
 服务器不建议搭建给本地用，服务器是最不推荐的方法了。
