@@ -14,9 +14,12 @@ node app.js -p 32777	//gitbash中执行，加个&后台执行也可以
 
 为什么程序一执行命令框消失，后台什么程序都没有
 
-给IOS使用有点不一样，使用该命令```node app.js -e https://music.163.com -p 32777:32778```
+给IOS使用有点不一样，使用该命令
+```
+node app.js -e https://music.163.com -p 32777:32778
+```
 参考：[https://github.com/nondanee/UnblockNeteaseMusic/issues/368](https://github.com/nondanee/UnblockNeteaseMusic/issues/368)
-可以在本地起两个线程
+可以在本地起两个线程，只起一个线程公用端口会有问题。
 ```
 node app.js -p 32779 //给PC用
 node app.js -e https://music.163.com -p 32777:32778  //给IOS设备用
