@@ -36,7 +36,7 @@ cd UnblockNeteaseMusic
 #运行js脚本
 node app.js -p 8848
 ```
-可以自己写个服务，用systemd工具启动
+可以自己写个服务，用systemd工具启动，只给IOS用电话就一个服务，还要给PC用就再起一个服务
 ```
 vi /etc/systemd/system/UnblockNeteaseMusic.service
 
@@ -45,7 +45,7 @@ vi /etc/systemd/system/UnblockNeteaseMusic.service
 After=network-online.target
 
 [Service]
-ExecStart=/usr/bin/node app.js -p 32777
+ExecStart=/usr/bin/node /root/UnblockNeteaseMusic/app.js -e https://music.163.com -p 32777:32778
 Restart=1
 
 
@@ -53,8 +53,22 @@ Restart=1
 WantedBy=multi-user.target
 
 #主要就是ExecStart的这个命令
-systemctl demon-reload
+systemctl daemon-reload
 systemctl start  UnblockNeteaseMusic
+
+vi /etc/systemd/system/UnblockNeteaseMusicPC.service
+
+#文件中写入以下内容
+[Unit]
+After=UnblockNeteaseMusic.service
+
+[Service]
+ExecStart=/usr/bin/node /root/UnblockNeteaseMusic/app.js -p 32779
+Restart=1
+
+
+[Install]
+WantedBy=multi-user.target
 
 #这个js挺稳定的一般不会遇到崩溃的时候吧，以防服务器抽风 设置个Restart
 #如果是要更新git仓库，再启动该服务
