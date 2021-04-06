@@ -12,6 +12,7 @@
 - [脚本](https://github.com/Tartarus2014/Loon-Script)
 
 ## Quantumult X
+- [图标](https://github.com/namelessup/Koolson-Qure)
 - [详细配置参考](https://www.notion.so/75156f1c053c46568672896145f2eb36)
 - [完整配置解读](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf)
 - [规则blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule)
