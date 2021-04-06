@@ -1,4 +1,4 @@
-# 基于w37fhy，根据各大佬的规则自己定制属于自己的配置文件
+# 基于大佬们的工作，定制属于自己的配置文件。此处只是对自己的配置进行备份
 
 ## shadowrocket
 - [规则ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master)
