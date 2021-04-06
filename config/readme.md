@@ -3,7 +3,7 @@
 ## shadowrocket
 - [规则ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master)
 - [规则lhie1 ](https://github.com/lhie1/Rules/tree/master)
-- [规则]()
+- [规则blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)
 
 ## loon
 - [详细配置参考](https://www.notion.so/6-d87bf84ba9a94ea8b4d6720cab2aa285)
