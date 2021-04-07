@@ -4,6 +4,7 @@
 - [规则ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master)
 - [规则blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)
 - [规则lhie1 ](https://github.com/lhie1/Rules/tree/master)
+- [规则DivineEngine](https://github.com/DivineEngine/Profiles/tree/master)
 
 ## loon
 - [详细配置参考](https://www.notion.so/6-d87bf84ba9a94ea8b4d6720cab2aa285)
@@ -15,6 +16,7 @@
 - [图标](https://github.com/namelessup/Koolson-Qure)
 - [详细配置参考](https://www.notion.so/75156f1c053c46568672896145f2eb36)
 - [完整配置解读](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf)
-- [规则blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule)
 - [规则ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master)
-
+- [规则blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)
+- [规则lhie1 ](https://github.com/lhie1/Rules/tree/master)
+- [规则DivineEngine](https://github.com/DivineEngine/Profiles/tree/master)
