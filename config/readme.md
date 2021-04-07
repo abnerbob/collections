@@ -8,6 +8,7 @@
 
 ## loon
 - [详细配置参考](https://www.notion.so/6-d87bf84ba9a94ea8b4d6720cab2aa285)
+- [配置参考Loon_tf_cn.conf](https://github.com/Tartarus2014/Loon-Script)
 - [规则](https://github.com/TiyNa/LoonManual/blob/main/Plus/Rule_Recommend.md)
 - [插件](https://github.com/TiyNa/LoonManual/blob/main/Plus/Plugin_Recommend.md)
 - [脚本](https://github.com/Tartarus2014/Loon-Script)
