@@ -57,6 +57,7 @@ WantedBy=multi-user.target
 
 #主要就是ExecStart的这个命令
 systemctl daemon-reload
+systemctl enable  UnblockNeteaseMusic
 systemctl start  UnblockNeteaseMusic
 
 vi /etc/systemd/system/UnblockNeteaseMusicPC.service
