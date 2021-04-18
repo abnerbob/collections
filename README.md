@@ -27,6 +27,9 @@ sorts of my collections
 ---
 
 ### 科学上网前端
+#### 各个平台的工具 
+- 区别和联系：[https://github.com/Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)
+
 #### **windows好用的工具** 
 - [**clash for windows**](https://github.com/Fndroid/clash_for_windows_pkg)
 - [**v2rayN**](https://github.com/2dust/v2rayN)
