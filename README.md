@@ -31,7 +31,7 @@ sorts of my collections
 - 区别和联系：[https://github.com/Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)
 
 #### **windows好用的工具** 
-- [**clash for windows**](https://github.com/Fndroid/clash_for_windows_pkg)
+- [**clash for windows**](https://github.com/Fndroid/clash_for_windows_pkg) [节点配置参考](https://github.com/Dreamacro/clash/wiki/configuration)
 - [**v2rayN**](https://github.com/2dust/v2rayN)
 - [**shadowsocks-windows**](https://github.com/shadowsocks/shadowsocks-windows) : ss的官方windows前端
 - [**Netch**](https://github.com/NetchX/Netch)
